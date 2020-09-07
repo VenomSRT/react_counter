@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAEA,WACE,UAAW,CACX,aAAc","file":"main.db4d8729.chunk.css","sourcesContent":["// styles go here\n\n.addButton {\n  width: 75px;\n  padding: 5px 0;\n}\n"]}
